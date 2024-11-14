@@ -1,17 +1,17 @@
-# Hi, I'm <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> [Your Name]!
+# Hi there <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> 
 
 
-Welcome to my GitHub profile! I'm a passionate **[Your Role/Title]** with a love for building amazing software and solving challenging problems.
+Welcome to my GitHub profile! I'm a passionate **Flutter and Machine Learning** with a love for building amazing software and solving challenging problems.
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m learning **[Technology or Skill]**
-- 💬 Ask me about **[Topics you’re knowledgeable about]**
-- 📫 Reach me at: **[Your Email or Social Link]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I’m currently working on **Qd Balance App**
+- 🌱 I’m learning **RAG and GAN**
+- 💬 Ask me about **Machine Learning Integration into Mobile Apps**
+- 📫 Reach me at: **20pwcse1867@uetpeshawar.edu.pk**
+- ⚡ Fun fact: **Stay alone**
 
 ---
 
@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate **[Your Role/Title]** with a love
 Here are some of the technologies and tools I work with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
