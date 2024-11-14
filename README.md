@@ -1,7 +1,14 @@
 # Hi there <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> 
 
 
-Welcome to my GitHub profile! I'm a passionate **Flutter and Machine Learning** with a love for building amazing software and solving challenging problems.
+Welcome to my GitHub profile! 🚀 I'm a passionate **Machine Learning Engineer** and **Flutter Developer** with expertise in building robust software and solving challenging problems.
+
+I specialize in:
+- **TensorFlow** and **ML Model Deployment** for real-world applications.
+- Deploying ML models to **mobile apps** and **backend systems** using frameworks like **Flask**.
+- Integrating **Machine Learning** into mobile applications for enhanced user experiences.
+- Utilizing cloud services like **AWS** and **Firebase** for scalable solutions.
+
 
 ---
 
