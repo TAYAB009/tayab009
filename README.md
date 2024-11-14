@@ -50,15 +50,14 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayab-farooq-0118411bb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://tayab-portfolio.web.app/)
 
 ---
 
 ## ✨ Fun Stuff
 
-> “Your favorite quote or motto.”
+> “Redefining the Norm, Rewriting the Future”
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Fun GIF" />
 
@@ -67,4 +66,4 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 ## 🤝 Support My Work
 
 If you like what I do, consider buying me a coffee! ☕  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F76348?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/tayab009)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F76348?style=flat&logo=buy-me-a-coffee&logoColor=white)](buymeacoffee.com/tayabfarooq)
