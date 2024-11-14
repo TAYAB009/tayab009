@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Flutter and Machine Learning** 
 - 🔭 I’m currently working on **Qd Balance App**
 - 🌱 I’m learning **RAG and GAN**
 - 💬 Ask me about **Machine Learning Integration into Mobile Apps**
-- 📫 Reach me at: **20pwcse1867@uetpeshawar.edu.pk**
+- 📫 Reach me at: **[20pwcse1867[at]uetpeshawar[dot]edu[dot]pk](mailto:20pwcse1867@uetpeshawar.edu.pk)**
 - ⚡ Fun fact: **Stay alone**
 
 ---
