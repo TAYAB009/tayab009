@@ -12,6 +12,14 @@ I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passiona
 
 ---
 
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tayab009&show_icons=true&theme=radical)](https://github.com/tayab009)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tayab009&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **Qd Balance App**
@@ -56,14 +64,6 @@ Here are a few projects I've worked on:
 - 🌟 [**Project 2**](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML): Heart Activity monitoring App
 
 Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
-
----
-
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tayab009&show_icons=true&theme=radical)](https://github.com/tayab009)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tayab009&theme=radical)](https://git.io/streak-stats)
 
 ---
 
