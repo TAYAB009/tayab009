@@ -36,7 +36,7 @@ Here are a few projects I've worked on:
 - 🌟 [**Project 1**]([https://github.com/yourusername/project1](https://github.com/TAYAB009/Qd-Balance-Admain-Panel)): Woman Fitness App
 - 🌟 [**Project 2**]([https://github.com/yourusername/project2](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML)): Heart Activity monitoring App
 
-Check out more of my work [here](https://github.com/yourusername?tab=repositories).
+Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
 ---
 
