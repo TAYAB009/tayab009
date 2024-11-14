@@ -33,8 +33,8 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-- 🌟 [**Project 1**]([https://github.com/yourusername/project1](https://github.com/TAYAB009/Qd-Balance-Admain-Panel)): Woman Fitness App
-- 🌟 [**Project 2**]([https://github.com/yourusername/project2](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML)): Heart Activity monitoring App
+- 🌟 [**Project 1**](https://github.com/TAYAB009/Qd-Balance-Admain-Panel): Woman Fitness App
+- 🌟 [**Project 2**](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML): Heart Activity monitoring App
 
 Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
@@ -42,9 +42,9 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tayab009&show_icons=true&theme=radical)](https://github.com/tayab009)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tayab009&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -67,4 +67,4 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 ## 🤝 Support My Work
 
 If you like what I do, consider buying me a coffee! ☕  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F76348?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F76348?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/tayab009)
