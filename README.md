@@ -1,4 +1,5 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Your Name]! 
+![Welcome GIF](https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif)
 
 Welcome to my GitHub profile! I'm a passionate **[Your Role/Title]** with a love for building amazing software and solving challenging problems.
 
