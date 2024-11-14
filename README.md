@@ -22,8 +22,9 @@ Here are some of the technologies and tools I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
@@ -32,8 +33,8 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-- 🌟 [**Project 1**](https://github.com/yourusername/project1): A brief description of your project.
-- 🌟 [**Project 2**](https://github.com/yourusername/project2): A brief description of your project.
+- 🌟 [**Project 1**]([https://github.com/yourusername/project1](https://github.com/TAYAB009/Qd-Balance-Admain-Panel)): Woman Fitness App
+- 🌟 [**Project 2**]([https://github.com/yourusername/project2](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML)): Heart Activity monitoring App
 
 Check out more of my work [here](https://github.com/yourusername?tab=repositories).
 
