@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a passionate **Flutter and Machine Learning** 
 ## 🎓 Education
 
 - **Master's in Machine Learning**  
-  [University Name] *(Expected Graduation: 2026)*  
+  University of Engineering and Technology, Peshawar *(Expected Graduation: 2026(*  
   Focus: Deep Learning, Generative Models, and AI Systems
 
 - **Bachelor's in Computer Systems Engineering**  
-  [University of Engineering and Technology, Peshawar] *(Graduated: 2024)*  
+  University of Engineering and Technology, Peshawar *(Graduated: 2024)*  
   Focus: Software Development, System Architecture
 
 ---
